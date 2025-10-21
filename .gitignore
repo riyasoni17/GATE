@@ -1,0 +1,10 @@
+# Ignore video and audio files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.mp3
+*.wav
+
+# Ignore notebooks checkpoints and temp files
+.ipynb_checkpoints/
